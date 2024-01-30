@@ -1,0 +1,1 @@
+A nested function is just a function inside a function. The input is taken into the child function and produces an output. That output is taken in as the new input for the parent function.
