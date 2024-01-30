@@ -1,0 +1,1 @@
+In python, you can represent True and False as 1 and zero while Booleans in MIT App Inventor must be writen as True or False. MIT app inventor does not have a built in boolean function and can only accept True or False.
